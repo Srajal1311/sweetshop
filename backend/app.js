@@ -1,4 +1,4 @@
-import express from "express";
+import express from "express";                                                                      //
 import cors from "cors";
 import authRoutes from "./src/routes/auth.routes.js";
 import sweetsRoutes from "./src/routes/sweets.routes.js";
