@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.cache/
+.next/
+out/
+
+# Logs
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor & system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Testing
+coverage/
+.nyc_output/
+
+# Optional: if using TypeScript temporarily
+*.tsbuildinfo
