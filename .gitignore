@@ -35,5 +35,5 @@ Thumbs.db
 coverage/
 .nyc_output/
 
-# Optional: if using TypeScript temporarily
+# Optional: if using TypeScript temporarily                     #
 *.tsbuildinfo
