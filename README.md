@@ -55,12 +55,12 @@ npm install
 
 Run backend:
 
-npm start
+npm run dev
 
 
 Run frontend:
 
-npm start
+npm run dev
 
 
 By default:
